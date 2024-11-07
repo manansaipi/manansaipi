@@ -1,3 +1,4 @@
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yourusername&title=Profile%20Views)
 ![logo](https://wallpaperaccess.com/full/2825710.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Mannan Saipi</h1>
